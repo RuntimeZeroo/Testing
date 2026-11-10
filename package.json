@@ -1,0 +1,12 @@
+{
+  "name": "testing",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Nikusha Bregvadze, githubGmail: moltisantichristopher01@gmail.com gitUsername:RunTimeZeroo",
+  "license": "ISC",
+  "description": ""
+}
