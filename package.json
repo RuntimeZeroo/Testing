@@ -9,17 +9,23 @@
     "build": "webpack",
     "lint": "eslint app/ test/"
   },
-  "keywords": [],
+   "keywords": [
+    "test-automation",
+    "unit-tests",
+    "ui-tests",
+    "api-tests",
+    "javascript"
+  ],
   "author": "Nikusha Bregvadze, githubGmail: moltisantichristopher01@gmail.com gitUsername:RunTimeZeroo",
   "license": "ISC",
-  "description": "",
- "devDependencies": {
-  "c8": "^12.0.0",
-  "chai": "^4.5.0",
-  "eslint": "^8.57.1",
-  "eslint-config-airbnb-base": "^15.0.0",
-  "eslint-plugin-import": "^2.32.0",
-  "mocha": "^12.0.3",
-  "mochawesome": "^8.1.1"
-}
+  "description": "Test automation hometasks: unit tests, UI tests and API tests, each kept in its own branch (unit-tests, ui-tests, api-tests).",
+  "devDependencies": {
+    "c8": "^12.0.0",
+    "chai": "^4.5.0",
+    "eslint": "^8.57.1",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.32.0",
+    "mocha": "^12.0.3",
+    "mochawesome": "^8.1.1"
+  }
 }
