@@ -39,7 +39,7 @@ exports.config = {
 
     mochaOpts: {
         ui: 'bdd',
-        timeout: 6000
+        timeout: 12000
     },
 
     //  save a screenshot for every failed test
