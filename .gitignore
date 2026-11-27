@@ -1,5 +1,9 @@
 node_modules/
 .env
 .DS_Store
+coverage
+reports
+.report-data/
+report.html
 reports/
 coverage/
